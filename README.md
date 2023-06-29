@@ -1,1 +1,2 @@
-"Philip Tasabia" 
+Philip Tasabia
+tasabiap@oregonstate.edu
